@@ -1,0 +1,4 @@
+*.tar.*
+gcc-14.1.0
+binutils-2.44
+build-gcc
